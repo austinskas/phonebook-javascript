@@ -1,0 +1,51 @@
+body {
+    background: green;
+    font-size: 24px;
+    color:yellow;
+}
+
+.button {
+    height: 50px;
+    width: 200px;
+    color: red;
+
+}
+
+
+.langas {
+background: white;
+height: 300px;
+width: 300px;
+margin-top:15px;
+margin-left: 15px
+
+}
+
+.card  {
+    height: 200px;
+    width:160px;
+    margin-top:15px;
+    margin-left: 650px;
+
+}
+
+
+
+.name{
+    background: red;
+    height: 50px;
+    width: 100px;
+}
+
+.kortele {
+        height: 200px;
+        width:160px;
+        margin-top:15px;
+
+}
+
+.button_box {
+    height:400px;
+    width:200px;
+    margin-left:620px;
+    )
